@@ -173,7 +173,7 @@
             "slideshow":
             {
                 "images" : ["custommainmenu:textures/bg.png","custommainmenu:textures/bg2.png","custommainmenu:textures/bg3.png",  "custommainmenu:textures/bg4.png", "custommainmenu:textures/bg5.png", "custommainmenu:textures/bg6.png", "custommainmenu:textures/bg7.png", "custommainmenu:textures/bg8.png"],
-                "displayDuration" : 300,
+                "displayDuration" : 600,
                 "fadeDuration" : 50
             }
         }
